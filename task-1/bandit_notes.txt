@@ -1,0 +1,14 @@
+Bandit0 -> bandit1 : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+bandit1->bandit2 : 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+bandit 2 -> bandit 3 : MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx 
+bandit3 -> bandit4 : 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+bandit4 -> bandit5 :4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+bandit5 -> bandit6 : HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+bandit 6 -> bandit7 : morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+bandit7 -> bandit8 : dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+bandit8 -> bandit9 : 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+bandit9 -> bandit10 : FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+bandit10 -> bandit11 : dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+bandit11 -> bandit12 : 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+bandit12 -> bandit13 : FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+
