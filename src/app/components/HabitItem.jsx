@@ -1,10 +1,5 @@
-export default function HabitItem({
-  name,
-  description,
-  streak,
-  longestStreak,
-  onComplete
-}) {
+ 
+ {
   return (
     <div className="border rounded-lg p-4 shadow mb-4">
 
